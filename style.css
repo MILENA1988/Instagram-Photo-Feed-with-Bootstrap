@@ -1,0 +1,56 @@
+#date1{
+    float: right;
+}
+.first {
+     width: 500px; 
+     background-color: white;
+}
+
+h2 {
+    float: left;
+    background-color: white;
+}
+
+
+img {
+     width: 500px; height: 500px;
+     
+     
+     
+}
+.tittle{
+  float:left;
+  background-color: white;
+  margin: 5%;
+  padding: 0%;
+}
+.date{
+  float:right;
+  background-color: white;
+  margin: 5%;
+
+}
+
+body {background-color: beige;}
+
+.container {
+    margin: 35%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: white;
+}
+  
+
+h1 {text-align: center;
+background-color: green;
+}
+.encabezado-1 { background-color: white;}
+
+.pie { 
+    background-color:lightskyblue;
+      float:left;
+  margin:0%;
+
+  
+ 
+}
